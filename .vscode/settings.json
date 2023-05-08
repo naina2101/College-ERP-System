@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "student_management_app"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
